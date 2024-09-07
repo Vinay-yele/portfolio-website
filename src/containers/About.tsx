@@ -24,31 +24,21 @@ const About = () => {
       <main className="flex flex-col items-center gap-16 lg:items-start lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-            Hi, my name is Vatsal Singh, a first-year MCA student at{' '}
+            Hi, my name is Vinay Yele, a third-year B.E student at{' '}
             <Link
               href="https://bhu.ac.in/"
               target="_blank"
               className="text-accent"
             >
-              Banaras Hindu University
+              B.M.S College of Engineering
             </Link>
-            .<br /> I'm an Artist as well as crazy full stack web developer who
-            wants to explore every tech stack.
+            .<br /> I’m passionate about exploring the intersection of technology, particularly in the areas of blockchain, Web3, and AI.
           </p>
           <p>
-            Fast-forward to today, and I've had the privilege of working at a
-            start-up -{' '}
-            <Link
-              href="https://www.pixelwand.live/"
-              target="_blank"
-              className="text-accent"
-            >
-              Pixelwand
-            </Link>
-            .
+            Currently, I’m delving deep into the world of blockchain technology, aiming to make a significant impact in this space.
           </p>
           <p>
-            My main focus these days is learning mobile development and finding
+            My main focus these days is learning Data Structures and Algorithms and finding
             a decent job.
           </p>
 
