@@ -1,6 +1,5 @@
 'use client';
 import { TabList } from '@/components';
-
 import { experienceSection } from '../lib/content/experience';
 import { getSectionAnimation } from '../styles/animations';
 import { motion } from 'framer-motion';
@@ -13,6 +12,7 @@ const Experience = () => {
       {...getSectionAnimation}
     >
       <h2 className="heading-secondary">{experienceSection.title}</h2>
+      {/* Pass only Gradient experience to TabList */}
       <TabList experiences={experienceSection.experiences} />
     </motion.section>
   );
