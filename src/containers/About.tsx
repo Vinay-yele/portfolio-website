@@ -26,7 +26,7 @@ const About = () => {
           <p>
             Hi, my name is Vinay Yele, a third-year B.E student at{' '}
             <Link
-              href="https://bhu.ac.in/"
+              href="https://www.bmsce.ac.in/"
               target="_blank"
               className="text-accent"
             >

@@ -6,7 +6,7 @@ export const experienceSection: ExperienceSectionType = {
     {
       company: 'Gradient',
       companyUrl: 'https://www.linkedin.com/company/gradient-club/',
-      role: 'Design Developer',
+      role: 'Design Head',
       started: 'December 2023',
       upto: 'December 2024',
       tasks: [
