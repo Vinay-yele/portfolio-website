@@ -9,7 +9,7 @@ import { StringKeyValueType } from '../types';
 export const socialLinks: StringKeyValueType = {
   facebook: 'https://www.facebook.com/profile.php?id=100006291974644',
   instagram: 'https://www.instagram.com/vinay_yele',
-  twitter: 'https://x.com/vinay_yele',
+  twitter: 'https://x.com/vinayyele2013',
   github: 'https://github.com/Vinay-yele',
   linkedin: 'https://www.linkedin.com/in/vinay-yele-08ab08295/',
 };
@@ -26,7 +26,7 @@ export const seoData = {
   author: author.name,
   image:
     'https://user-images.githubusercontent.com/68834718/217467445-0b0d2d63-f8ad-4702-8474-814eb2cbb3be.png',
-  url: 'https://vatsalsinghkv.vercel.app/',
+  url: 'https://vinayyele.live/',
   keywords: [
     'Vinay',
     'Vinay Yele',
